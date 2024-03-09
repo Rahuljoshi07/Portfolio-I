@@ -35,6 +35,14 @@ This is the first version of my portfolio website, built entirely using HTML. It
 
 3. **Contact Form:**
    - To utilize the contact form, fill in your name, email, and message, and click the "Submit" button. This will open your default email client with the recipient email pre-filled.
+  
+## Intializaton:
+
+1. Clone the repository:
+  git clone https://github.com/Rahuljoshi07/Portfolio-I.git
+
+2. Open the `index.html` file in your web browser or host it on a web server.
+
 
 
 ## Contributing:
