@@ -40,7 +40,7 @@ This is the first version of my portfolio website, built entirely using HTML. It
 
 1. Clone the repository:
    
-  git clone https://github.com/Rahuljoshi07/Portfolio-I.git
+    git clone https://github.com/Rahuljoshi07/Portfolio-I.git
 
 2. Open the `index.html` file in your web browser or host it on a web server.
 
