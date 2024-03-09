@@ -6,11 +6,14 @@ This is Rahul Joshi's first portfolio website, created using HTML. It showcases 
 
 Description
 Website Structure
-Usage
 Contributing
 License
 Description
 This website serves as my first portfolio, providing information about his skills, work experience, and hobbies. It also includes a contact form through which visitors can reach out to him.
+
+## Screen
+ 
+![Screenshot_9-3-2024_233338_rahuljoshi07 github io](https://github.com/Rahuljoshi07/Portfolio-I/assets/86591216/2b0d41d1-ea23-4413-b775-34bca50364ac)
 
 ## Website Structure
 
